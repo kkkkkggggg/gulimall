@@ -15,8 +15,8 @@ server:
   port: 30000
 alibaba:
   cloud:
-    secret-key: vT3BKGUKRCuoYxkVYV6Y0CqC5lwjob
-    access-key: LTAI5t6wVEfRd1D15ziEEEjb
+    secret-key: ########################
+    access-key: ########################
     oss:
       endpoint: oss-cn-shanghai.aliyuncs.com
       bucket: gulimall-kkkkk
