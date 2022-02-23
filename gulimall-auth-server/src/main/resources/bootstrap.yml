@@ -1,0 +1,14 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.56.10:8848
+      config:
+        enabled: false
+  application:
+    name: gulimall-auth-server
+  redis:
+    host: 192.168.56.10
+    port: 6379
+server:
+  port: 20000
